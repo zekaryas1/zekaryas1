@@ -1,6 +1,7 @@
-## 👋 Hi, I’m <strong>Zekaryas Tadele <kbd>Software engineer from Addis Ababa, Ethiopia🇪🇹</kbd></strong>
+## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
-Check my Portfolio <a href="https://zekaryas.netlify.app">here!</a>
+- Check my Portfolio <a href="https://zekaryas.netlify.app">here!</a> 
+- [View My notes](https://zekaryas1.github.io/brief-programming-notes/#/)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
