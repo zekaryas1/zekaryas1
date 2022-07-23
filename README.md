@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
 - Check my Portfolio <a href="https://zekaryas.netlify.app">here!</a> 
-- [View My notes](https://zekaryas1.github.io/brief-programming-notes/#/)
+- [View My notes](https://zack.onrender.com/)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
@@ -14,6 +14,6 @@
 </table>
 
 ## ☎️ Contact
-<div align=center>
+<div>
   <a href="https://www.linkedin.com/in/zekaryas-tadele-dinku/"><img src="http://img.shields.io/badge/-linkedin-black?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/zekaryas-tadele-dinku/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 </div>
