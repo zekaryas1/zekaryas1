@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
-- Check my Portfolio <a href="https://zekaryas.netlify.app">here!</a> 
 - [View My notes](https://zack.onrender.com/)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
