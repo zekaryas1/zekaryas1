@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
-- [View My notes](https://zack.onrender.com/)
+- [My notes](https://cnotes.vercel.app/)
+- [Portfolio](https://zekaryas.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
