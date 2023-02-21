@@ -5,6 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
+- Public apps
+  - https://manydashboards.vercel.app/
+  - https://ecommerce-phi-six.vercel.app/
+
 ### :octocat: My stats
   <table>
   <tr>
