@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
 - Public apps
+  - https://thecodegen.vercel.app/
   - https://manydashboards.vercel.app/
   - https://ecommerce-phi-six.vercel.app/
 
