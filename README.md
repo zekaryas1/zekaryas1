@@ -9,6 +9,7 @@
   - https://thecodegen.vercel.app/
   - https://manydashboards.vercel.app/
   - https://ecommerce-phi-six.vercel.app/
+  - https://github.com/zekaryas1/iContacts
 
 ### :octocat: My stats
   <table>
