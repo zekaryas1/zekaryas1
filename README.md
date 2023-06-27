@@ -1,14 +1,14 @@
 ## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
-- [My notes](https://cnotes.vercel.app/)
-- [Portfolio](https://zekaryas.vercel.app/)
+- [My notes](https://zekaryas.vercel.app/)
+- [Portfolio](https://zekaryas.vercel.app/resume)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
 - Public apps
   - https://thecodegen.vercel.app/
   - https://manydashboards.vercel.app/
-  - https://ecommerce-phi-six.vercel.app/
+  - https://tinyamazon.vercel.app/
   - https://github.com/zekaryas1/iContacts
 
 ### :octocat: My stats
