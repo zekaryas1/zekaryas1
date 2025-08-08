@@ -5,10 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
 - Public apps
+  - https://aku-ai-pdf.vercel.app/
   - https://thecodegen.vercel.app/
   - https://manydashboards.vercel.app/
   - https://tinyamazon.vercel.app/
-  - https://github.com/zekaryas1/iContacts
 
 ### :octocat: My stats
   <table>
