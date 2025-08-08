@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m <strong>Zekaryas Tadele</strong>
 
 - [My notes](https://zekaryas.vercel.app/)
-- [Portfolio](https://zekaryas.vercel.app)
 
 ![](https://komarev.com/ghpvc/?username=zekaryas1&color=green)
 
